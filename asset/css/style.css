@@ -85,3 +85,74 @@ li{
     margin-top: 10%;
     justify-content: space-between;
 }
+
+.fo1{
+    display: flex; margin-top:6%; 
+}
+.fo2{
+    width:40% ;position: relative;left:1;text-align:justify;margin-left: 2cm;
+}
+.fo3{
+    margin-top:1cm ; line-height: 1.5em;
+}
+.fo4{
+    margin-top:2cm ;
+}
+.fo5{
+    
+    margin-top:1cm ; line-height: 1.5em;
+}
+.fo6{
+    margin-top:1cm ; line-height: 1.5em;
+}
+.fo7{
+    margin-top: 5cm;
+}
+.fo8{
+    display: flex; margin-top:16%;
+}
+.fo9{
+    width:40% ;position: relative;left:1; text-align:justify;margin-left: 2cm; 
+}
+.fo10{
+    margin-top:2cm ; line-height: 1.5em;
+}
+.f1{
+    margin-top:1cm ; line-height: 1.5em;
+}
+.f2{
+    margin-top:20% ;
+}
+.f3{
+    text-decoration:underline; border: solid 1px; width: 27%;margin-top: 1%;
+}
+.f4{
+    margin-bottom:10% ;
+}
+.f5{
+    font-weight:100; font-size: 2em;
+}
+.f6{
+    margin-bottom:10% ; font-weight:100; font-size: 2em;
+}
+.f7{
+    line-height: 1.5em
+}
+.f8{
+    width: 98%; margin-top: 15%; margin-left: 1%;
+}
+.f9{
+    display: flex; margin-top:10%;
+}
+
+@media only screen  and (max-width:600px){
+    
+    .menu{
+        display: block;
+       /* justify-content:space-between;
+        margin-top:2% ;
+        margin-left: 4%;
+        margin-right: 4%;*/
+     }
+   
+}
